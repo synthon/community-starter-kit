@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot App
 
 ## What it does
 
-FEATURES PLACEHOLDER
+a GitHub App built with probot that welcomes new users 
 
 ## Getting started
 
